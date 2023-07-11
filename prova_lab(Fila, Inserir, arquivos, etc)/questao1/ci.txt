@@ -1,0 +1,5 @@
+Joao 2 0.1 1.0
+Pedro 0
+Maria 1 2.0
+Jose 4 1.1 2 0.5 1.5
+Marcos 0
